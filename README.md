@@ -11,4 +11,4 @@
 *Does your mom use GNU/Linux? GOOGLE CHROME*
 
 ## 💖 Support Me
-[Donate PayPal](paypal.me/LukasRiceCoffe) 
+[Donate PayPal](https://paypal.me/LukasRiceCoffe)
