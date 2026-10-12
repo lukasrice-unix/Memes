@@ -4,12 +4,11 @@
 
 ## 🔥 Best Of
 
-### 1. The Eternal Dilemma - AMD vs NVIDIA
 ![amd vs nvidia](memes/amd-vs-nvidia.jpg)
-Linux Users be like: Open-Source Drivers heaven vs CUDA support hell
+*The eternal dilemma - Open-Source Drivers vs CUDA Support*
 
-### 2. The Chrome Betrayal
 ![chrome meme](memes/google-chrome.jpg)
-Does your mom use GNU/Linux? What's the best web browser? GOOGLE CHROME
+*Does your mom use GNU/Linux? GOOGLE CHROME*
 
-## 📁 Structure 
+## 💖 Support Me
+[Donate PayPal](paypal.me/LukasRiceCoffe) 
