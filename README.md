@@ -3,9 +3,13 @@
 > My personal stash of cursed, dank and legendary memes
 
 ## 🔥 Best Of
-| Meme | Story |
-|------|-------|
-| ![meme1](memes/meme1.jpg) | The one that blew up |
-| ![meme2](memes/meme2.jpg) | My personal favorite |
 
-## 📁 Structure
+### 1. The Eternal Dilemma - AMD vs NVIDIA
+![amd vs nvidia](memes/amd-vs-nvidia.jpg)
+Linux Users be like: Open-Source Drivers heaven vs CUDA support hell
+
+### 2. The Chrome Betrayal
+![chrome meme](memes/google-chrome.jpg)
+Does your mom use GNU/Linux? What's the best web browser? GOOGLE CHROME
+
+## 📁 Structure 
